@@ -24,9 +24,9 @@ The minimum requirement by this project template that your Web server supports P
 INSTALLATION
 ------------
 -composer install<br>
--config/db.php konfigurasi database (nama database pos)
+-config/db.php konfigurasi database (nama database logi)
 
 MIGRATE
 -------
--buat database dengan nama pos<br>
+-buat database dengan nama logi<br>
 -php yii migrate (menggenerate tabel)
